@@ -1,0 +1,13 @@
+{
+  "name": "za-ek/zaek-mysqli",
+  "description": "Mysqli data connector for za-ek framework",
+  "require": {
+    "php": "^7.2.4",
+    "za-ek/zaek":"^2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Zaek\\": "Zaek"
+    }
+  }
+}
